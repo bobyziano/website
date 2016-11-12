@@ -1,0 +1,43 @@
+h1 {
+	color: blue;
+	text-align: center;
+}
+h2 {
+	color: green;
+}
+h3 {
+	color:DodgerBlue;
+}
+h4 {
+	color: red;
+}
+p {
+	color: DarkGreen;
+	background-color: yellow;
+}
+a {
+	/*hello */
+	color: GoldenRod;
+	font-size: 30px;
+	font-family: Tahoma;
+}
+
+img {
+	height: 50%;
+	width: 50%;
+	margin: 20px;
+	padding: 20px;
+	border: 20px;
+	border-color: blue;
+}
+
+body {
+	margin-left: 20px;
+	margin-right: 50px;
+	background-color: 3AA9CF;
+}
+
+.general {
+	font-family: Tahoma;
+
+}
